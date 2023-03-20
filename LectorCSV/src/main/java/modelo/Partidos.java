@@ -7,7 +7,7 @@ public class Partidos {
     @CsvBindByPosition(position = 0)
     private String EquipoA;
 
-	@CsvBindByPosition(position = 1)
+    @CsvBindByPosition(position = 1)
     private Integer golesEquipoA;
     
     @CsvBindByPosition(position = 2)
